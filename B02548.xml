@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupids revenge. The captive lover once got free did triumph in his liberty, But storming Cupids mighty power, he did his freedom soon devour. Tune, Now, now the fight's done.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678-1681?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02548</idno>
+            <idno type="STC">Wing C7611</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[61]</idno>
+            <idno type="EEBO-CITATION">99887086</idno>
+            <idno type="PROQUEST">ocm99887086</idno>
+            <idno type="VID">181811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181811)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupids revenge. The captive lover once got free did triumph in his liberty, But storming Cupids mighty power, he did his freedom soon devour. Tune, Now, now the fight's done.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Cole, T[homas]. Vere, J[ohn]. Wright, J[ohn]. Clark, W[illiam]. Thackery: T[homas]. Passenger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1678-1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Now, now you blind boy I you clearly deny ..."</note>
+                  <note>Place, date of publication, and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181811:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>CUPIDS revenge.</head>
+            <argument>
+               <lg>
+                  <l>The Captive Lover once got free</l>
+                  <l>Didtriumph in his liberty,</l>
+                  <l>But ſtorming <hi>Cupids</hi> mighty power,</l>
+                  <l>He did his freedom ſoon devour.</l>
+               </lg>
+            </argument>
+            <opener>Tune, <hi>Now, now the Fight's done.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>NOw, now you blind boy I you clearly deny</l>
+               <l>With your Arts &amp; your Darts that you often let fly,</l>
+               <l>For my Heart is mine own, and ſo ſhall be ſure,</l>
+               <l>Since your wounds (Lovers ſay) will admit of no cure;</l>
+               <l>But a fig for your Bow, I your tricks now deſpiſe,</l>
+               <l>And I mind not the charms of the Fair Ladies eyes.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Doaters I hate, who are won with a ſmile,</l>
+               <l>While the Heart nothing means but ſuch Fools to beguile</l>
+               <l>And when a hand kiſs can ſuch influence have.</l>
+               <l>Then the Lady ſhe thinks <hi>Cupids</hi> power is brave;</l>
+               <l>Thus men e're they think on't are caught in a ſnare,</l>
+               <l>But of theſe idle follyes i'le ſtill have a care.</l>
+            </lg>
+            <lg>
+               <l>But in time that is paſt I was ſubject to love,</l>
+               <l>And a ſmile from my dear like a heaven did prove,</l>
+               <l>While the pains of a frown to me known too well,</l>
+               <l>Did ſeem like the torments of bottomleſs Hell;</l>
+               <l>But ſince from thoſe dangees i'me happy and free,</l>
+               <l>I think there's no man can be more bleſs'd than me.</l>
+            </lg>
+            <lg>
+               <l>When in Bed I lay for want of my dear,</l>
+               <l>My Heart was oppreſſed with ſorrow and fear</l>
+               <l>Leaſt another ſhould lock my dear Love in his Arms,</l>
+               <l>Whoſe eyes did appear like continual charms:</l>
+               <l>But now I diſdain what I once did admire,</l>
+               <l>For my reaſon hath quenched the blinking boyes fire.</l>
+            </lg>
+            <lg>
+               <l>And now in my freedom ſo happy I am</l>
+               <l>That I pitty the man that is touch'd with the flame,</l>
+               <l>For whileſt I was under his Fetters and Chains</l>
+               <l>I ne'r could be free from the worſt of all paines;</l>
+               <l>But the more I did fawn ſhe the more did me ſlight</l>
+               <l>Till at laſt I did bid my fair Lady good-night.</l>
+            </lg>
+            <lg>
+               <l>And at peace I was long till a great ſudden change</l>
+               <l>Poſſeſſed my mind, which to me ſeemed ſtrange,</l>
+               <l>And I fell in a great and a ſudden Relaps,</l>
+               <l>Which was worſer by half than the twenty firſt Claps;</l>
+               <l>For twenty fair Ladies I courted before</l>
+               <l>Ne'r made me ſo much for to cringe and adore.</l>
+            </lg>
+            <lg>
+               <l>BUt ſee how the Boy did perpler me full ſore,</l>
+               <l>For ſaying I would not his power adore,</l>
+               <l>Again I was catch't by the glance of an eye</l>
+               <l>And puniſh't, becauſe I did <hi>Cupid</hi> defie:</l>
+               <l>So all in a moment my joyes they did fly,</l>
+               <l>And I doteing wretch left in Captivity.</l>
+            </lg>
+            <lg>
+               <l>My Fetters are ſtronger then I can endure,</l>
+               <l>And too late oh! too late I do wiſh for a cure,</l>
+               <l>'Tis but juſt with the Boy me thus to afflict,</l>
+               <l>Since his power and Laws I did once contradict;</l>
+               <l>And now become ſubject unto him again</l>
+               <l>Which adds to my ſorrow, entreaſeth my pain.</l>
+            </lg>
+            <lg>
+               <l>Then never deſpiſe or contemn that great power</l>
+               <l>Who can in a moment your freedom devour,</l>
+               <l>And wrap you in Chains never more to be free,</l>
+               <l>But left in the confines of Captivity,</l>
+               <l>For now to my ſorrow I find and do know</l>
+               <l>There is ſtrength in his Quiver and power in his Bow.</l>
+            </lg>
+            <lg>
+               <l>Now had I ten Millions of Guinies to give,</l>
+               <l>I'de part with them all at my freedom to live,</l>
+               <l>But I find 'tis in vain ſuch things for to wiſh.</l>
+               <l>Since his traps do appear like a Net to a Fiſh,</l>
+               <l>Who once being taken ſhall never get free,</l>
+               <l>And ſo I poor wretch find a will be with me.</l>
+            </lg>
+            <lg>
+               <l>Oh! <hi>Cupid</hi> forhear me for whilſt I do live.</l>
+               <l>I will to thy power great attributes give.</l>
+               <l>And after this time will account them unwiſe,</l>
+               <l>Who are too fool hardy, and <hi>Cupid</hi> deſpiſe:</l>
+               <l>No mortal is able my paines to endure,</l>
+               <l>But either muſt dye or ſoon look for a cure.</l>
+            </lg>
+            <lg>
+               <l>And now 'tis too late I would feign thee implore,</l>
+               <l>Who once never thought tree again to adore,</l>
+               <l>But too ſoon I was caught; and too late I lament,</l>
+               <l>Diſowning thy power, for which I Repent:</l>
+               <l>But in theſe dying words as I ſtretch forth my Arms,</l>
+               <l>I nothing acknowledge like <hi>Cupids</hi> ſtrong charms.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Cole. T. Vere. J. Wright, J. Clark. W. Thackery: T. Paſſenger,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
